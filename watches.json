@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "price": 8500.00
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster Professional Moonwatch",
+    "price": 5200.00
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera Calibre 16",
+    "price": 4500.00
+  },
+  {
+    "id": 4,
+    "name": "Seiko Presage Cocktail Time",
+    "price": 425.00
+  },
+  {
+    "id": 5,
+    "name": "Casio G-Shock Rangeman",
+    "price": 300.00
+  },
+  {
+    "id": 6,
+    "name": "Citizen Eco-Drive Promaster Diver",
+    "price": 235.00
+  },
+  {
+    "id": 7,
+    "name": "Timex Expedition Scout",
+    "price": 50.00
+  },
+  {
+    "id": 8,
+    "name": "Fossil Grant Chronograph",
+    "price": 135.00
+  },
+  {
+    "id": 9,
+    "name": "Bulova Precisionist Champlain",
+    "price": 425.00
+  },
+  {
+    "id": 10,
+    "name": "Tissot PRS 516",
+    "price": 695.00
+  },
+  {
+    "id": 11,
+    "name": "Hamilton Khaki Field Automatic",
+    "price": 595.00
+  },
+  {
+    "id": 12,
+    "name": "Breitling Navitimer",
+    "price": 7500.00
+  },
+  {
+    "id": 13,
+    "name": "Panerai Luminor Marina",
+    "price": 6500.00
+  },
+  {
+    "id": 14,
+    "name": "Audemars Piguet Royal Oak",
+    "price": 23500.00
+  },
+  {
+    "id": 15,
+    "name": "Hublot Big Bang",
+    "price": 18500.00
+  },
+  {
+    "id": 16,
+    "name": "IWC Portugieser",
+    "price": 10500.00
+  },
+  {
+    "id": 17,
+    "name": "Patek Philippe Nautilus",
+    "price": 27500.00
+  },
+  {
+    "id": 18,
+    "name": "Jaeger-LeCoultre Reverso",
+    "price": 9500.00
+  },
+  {
+    "id": 19,
+    "name": "Longines Master Collection",
+    "price": 2200.00
+  },
+  {
+    "id": 20,
+    "name": "Oris Aquis",
+    "price": 1650.00
+  },
+  {
+    "id": 21,
+    "name": "Seiko Prospex PADI Turtle",
+    "price": 450.00
+  },
+  {
+    "id": 22,
+    "name": "Citizen Promaster Nighthawk",
+    "price": 275.00
+  },
+  {
+    "id": 23,
+    "name": "Tudor Black Bay",
+    "price": 3950.00
+  },
+  {
+    "id": 24,
+    "name": "Rado Hyperchrome",
+    "price": 2500.00
+  },
+  {
+    "id": 25,
+    "name": "Movado Museum Classic",
+    "price": 695.00
+  },
+  {
+    "id": 26,
+    "name": "Emporio Armani Connected",
+    "price": 295.00
+  },
+  {
+    "id": 27,
+    "name": "Michael Kors Bradshaw",
+    "price": 350.00
+  },
+  {
+    "id": 28,
+    "name": "Gucci G-Timeless",
+    "price": 1200.00
+  },
+  {
+    "id": 29,
+    "name": "Skagen Holst",
+    "price": 155.00
+  },
+  {
+    "id": 30,
+    "name": "Timex Weekender",
+    "price": 45.00
+  },
+  {
+    "id": 31,
+    "name": "Swatch Sistem51",
+    "price": 150.00
+  },
+  {
+    "id": 32,
+    "name": "Diesel Mega Chief",
+    "price": 275.00
+  },
+  {
+    "id": 33,
+    "name": "Fossil Machine Chronograph",
+    "price": 195.00
+  },
+  {
+    "id": 34,
+    "name": "Nixon Time Teller",
+    "price": 100.00
+  },
+  {
+    "id": 35,
+    "name": "Casio F91W",
+    "price": 15.00
+  },
+  {
+    "id": 36,
+    "name": "Timex Ironman",
+    "price": 50.00
+  },
+  {
+    "id": 37,
+    "name": "Suunto Core",
+    "price": 250.00
+  },
+  {
+    "id": 38,
+    "name": "Garmin Fenix 6",
+    "price": 599.99
+  },
+  {
+    "id": 39,
+    "name": "Polar Vantage V2",
+    "price": 499.95
+  },
+  {
+    "id": 40,
+    "name": "Fitbit Sense",
+    "price": 299.95
+  },
+  {
+    "id": 41,
+    "name": "Amazfit GTS 2",
+    "price": 179.99
+  },
+  {
+    "id": 42,
+    "name": "Xiaomi Mi Band 6",
+    "price": 49.99
+  },
+  {
+    "id": 43,
+    "name": "Huawei Watch Fit",
+    "price": 129.99
+  },
+  {
+    "id": 44,
+    "name": "Garmin Lily",
+    "price": 199.99
+  },
+  {
+    "id": 45,
+    "name": "Samsung Galaxy Watch Active 2",
+    "price": 249.99
+  },
+  {
+    "id": 46,
+    "name": "Apple Watch SE",
+    "price": 279.00
+  },
+  {
+    "id": 47,
+    "name": "Fossil Gen 5 Carlyle",
+    "price": 295.00
+  },
+  {
+    "id": 48,
+    "name": "Diesel On Axial",
+    "price":
